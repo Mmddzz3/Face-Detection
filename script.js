@@ -15,3 +15,6 @@ function startVideo() {
     )
 }
 
+video.addEventListener('play', () => {
+    console.log('sfdsdfgsg')
+})
